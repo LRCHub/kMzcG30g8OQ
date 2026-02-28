@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "初心LOVE（うぶらぶ）YouTube ver.",
+  "base_artist": "なにわ男子",
+  "createdAt": "2026-02-28T15:42:23.224347Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "初心LOVE",
+      "artist": "なにわ男子",
+      "has_synced": false,
+      "path": "select/pl_01_初心LOVE_なにわ男子.txt"
+    }
+  ]
+}
